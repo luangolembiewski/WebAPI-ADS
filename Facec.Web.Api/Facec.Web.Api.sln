@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Apresentacao", "01-Apresentacao", "{FAE9E391-2E3A-4BCE-9AEF-906F74C8553A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Aplicacao", "02 - Aplicacao", "{11667103-B7EA-409B-972C-2B8581F4CC96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Dominio", "03 - Dominio", "{0FAF6B5A-2027-47AD-B66C-5647CD7EE3C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Infraestrutura", "04 - Infraestrutura", "{B2670B98-647E-4FE6-8612-C5355B4B1784}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.1 - inversao de Controle(IoC)", "04.1 - inversao de Controle(IoC)", "{F3E6F075-7385-42AE-91C8-847524B2E940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facec.WebApi", "Facec.WebApi\Facec.WebApi.csproj", "{97307687-507E-43C1-87A5-CF57254D9A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97307687-507E-43C1-87A5-CF57254D9A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97307687-507E-43C1-87A5-CF57254D9A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97307687-507E-43C1-87A5-CF57254D9A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97307687-507E-43C1-87A5-CF57254D9A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3E6F075-7385-42AE-91C8-847524B2E940} = {B2670B98-647E-4FE6-8612-C5355B4B1784}
+		{97307687-507E-43C1-87A5-CF57254D9A37} = {FAE9E391-2E3A-4BCE-9AEF-906F74C8553A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C063F8-33B4-4689-8755-3FAD528E57D4}
+	EndGlobalSection
+EndGlobal
