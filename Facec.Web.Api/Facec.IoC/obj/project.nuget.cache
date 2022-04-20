@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "SY0zDv2O2eN8pCMiID1SivxfVHkbthJEODEorRUX7q6LKgDC2Ln/ui2Tz/+QY5SRAdz4ZyFmAEQkOk4wTSST3Q==",
+  "dgSpecHash": "Z7tBM/KnZhg3k30VngOeYSP/fJb80DvI8QXfZEghu+LY4wCzQ+lXY20i/m+UuVxF13aocnnk1tdgl4tJGb2Enw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facec.lab01\\Desktop\\WebApi\\Facec.Web.Api\\Facec.IoC\\Facec.IoC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\facec.lab04\\Desktop\\WebAPI-ADS\\Facec.Web.Api\\Facec.IoC\\Facec.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\simpleinjector\\5.3.3\\simpleinjector.5.3.3.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

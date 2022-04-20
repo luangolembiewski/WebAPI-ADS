@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XTtAD30bTP0vE/EGJx6w+E9RW63+65j2aCQdojKIWGRMcBnrO8Jn989c/6vvwpldXOJsf4/0vV8gamWttxdOzw==",
+  "dgSpecHash": "U0tjZ8imm4nq7LLuTb4tkleYDbZp5hAQhq067UI9pCuJ9jP93NNYgH3L9zm5IvPknXKnZ3GY3D+SfTm3o3H2rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facec.lab01\\Desktop\\WebApi\\Facec.Web.Api\\Facec.Servicos\\Facec.Servicos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\facec.lab04\\Desktop\\WebAPI-ADS\\Facec.Web.Api\\Facec.Servicos\\Facec.Servicos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
