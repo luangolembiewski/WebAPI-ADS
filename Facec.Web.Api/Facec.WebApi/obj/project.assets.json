@@ -75,6 +75,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Facec.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Facec.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facec.Dominio.dll": {}
+        }
       }
     }
   },
@@ -185,10 +195,16 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Facec.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Facec.Dominio/Facec.Dominio.csproj",
+      "msbuildProject": "../Facec.Dominio/Facec.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Facec.Dominio >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -218,7 +234,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\facec.lab01\\Desktop\\WebApi\\Facec.Web.Api\\Facec.Dominio\\Facec.Dominio.csproj": {
+              "projectPath": "C:\\Users\\facec.lab01\\Desktop\\WebApi\\Facec.Web.Api\\Facec.Dominio\\Facec.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
